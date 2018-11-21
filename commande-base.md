@@ -1,6 +1,6 @@
 ## Lisitr'ireo commandes base ilaina amin'ny linux
 
- *Rehefa voavakinao tsara ilay lesona premier pas dia mitohy ihany ianao... * :smiley:
+ *Rehefa voavakinao tsara ilay lesona premier pas dia mitohy ihany ianao...* :smiley:
 
 1- Hanombohantsika an'azy aloha dia sokafy ny teminal satria eo isika no hianatra 
 tsindrio ny "ctrl+alt+t" dia ahita zavatra maintimainty feno soratsoratra kely mitovy amin'ilay film fijerinao 
