@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Open Code Geek Gasy 
 
-You can use the [editor on GitHub](https://github.com/open-code-geek-gasy/Linux/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fanoratana ireo fampianarana na tuto amin'ny fomba tsotra mora azo amin'ny teny gasy sy français na anglais koa.
 
-### Markdown
+Raha misy fanitsiana na fanatsarana dia afaka mandefa pull request ianao.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Raha te hifanampy ianao dia aza misalasala miresaka amin'ny [Niry](https://github.com/NyAndria)  , na [Jul](https://github.com/julkwel) ihany koa, misokatra tanteraka amin'ny fiaraha-misalahy eto izahay. :raised_hands:
 
-```markdown
-Syntax highlighted code block
+## Indreto ny lesona misesy ary hoan'izay liana mahakasika ny linux
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/open-code-geek-gasy/Linux/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [premier pas](https://github.com/open-code-geek-gasy/Linux/blob/master/premier-pas.md)
+- [commande de base](https://github.com/open-code-geek-gasy/Linux/blob/master/commande-base.md)
