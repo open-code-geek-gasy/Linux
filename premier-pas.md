@@ -1,9 +1,12 @@
 # GNU/Linux : Dingana voalohany
 
-## Inona ilay raha ?
+_Natao amin'ny teny malagasy izy ity saingy raha manafitohana anao ny teny vary ammin'anana dia aleo tonga dia tsy mamaky avy hatrany_  :smile:
 
 Vao hanomboka handray GNU/Linux mihintsy fa tsy hita hoe aiza no hanombohana azy ?
-Mialoha ny zavatra rehetra aloha dia fantaro hoe inona izany GNU/Linux. Amporisihina ianareo hitady sy hamantatra izany amin'ny Internet. Na izany aza, ireto misy famintinana
+
+## Inona ilay raha ?
+
+Mialoha ny zavatra rehetra aloha dia fantaro hoe inona izany GNU/Linux. Amporisihina ianao hitady sy hamantatra izany amin'ny Internet. Na izany aza, ireto misy famintinana
 kely :
 - Système d'exploitation izy (milahatra amin'ny hoe Microsoft Windows izany na Mac OS)
 - Misy distribution isan-karazany izy (ohatra hoe Ubuntu, Debian, CentOs na koa hoe Arch, Kali, sns.)
