@@ -1,6 +1,6 @@
 # GNU/Linux : Dingana voalohany
 
-_Natao amin'ny teny malagasy izy ity saingy raha manafitohana anao ny teny vary ammin'anana dia aleo tonga dia tsy mamaky avy hatrany_  :smile:
+_Natao amin'ny teny malagasy izy ity saingy raha manafitohana anao ny teny vary amin'anana dia aleo tonga dia TSY mamaky avy hatrany_  :smile:
 
 Vao hanomboka handray GNU/Linux mihintsy fa tsy hita hoe aiza no hanombohana azy ?
 
