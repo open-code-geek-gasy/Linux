@@ -4,7 +4,7 @@ Iverenantsika kely ary ny ligne de commandes na interpreteur de commandes amin'n
 
 _Sarotra ve ?_  Io re ilay antsoina hoe **_SHELL_** e !
 
-Ny fampiasana ireo **shell** ireo no hojerentsika.
+Ny fampiasana ireo **shell** ireo no hojerentsika. [**_Marihina fa tsy dokam-barotra ho an'ny fivarotan-tsolika velively ity resaka ity_** :unamused: ]
 
 ## Ahoana moa izany ?
 
