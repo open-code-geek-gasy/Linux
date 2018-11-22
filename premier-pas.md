@@ -42,4 +42,4 @@ Euh ... mila ampiasaina ilay izy fa tsy hoe mijerijery an'ilay interface eo fots
 Dia izay sy izay ny fanombohana azy. Miditra amin'ny commandes sy ny sisa amin'izay ny dingana manaraka izany hoe mampiasa terminal. Any no hianarana ny pitsopitsony rehetra fa rehefa mazava any amin'ny terminal dia misosa fotsiny ny eo amin'ny interface graphique.
 
 :punch:
-
+_Nosoratana ny volana novambra 2018 (aleo asiana daty satria mety misy zavatra tsy mitombina intsony ireo afaka volana maromaro ohatra)_
