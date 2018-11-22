@@ -39,9 +39,9 @@ Izany hoe  :
 - nom du poste : niry
 - repertoire courant : ~ (midika hoe repertoire personnel io symbole io eto)
 
-Amin'ny ankapobeny (sy par défaut) io caractère farany io dia na **$** na **#** (amin'ny ankapobeny hoy aho fa azo ovaina arak'izay itiavana azy koa io). Ny fanao mahazavtra dia :
+Amin'ny ankapobeny (sy par défaut) io caractère farany io dia na **$** na **#** (amin'ny ankapobeny hoy aho fa azo ovaina arak'izay itiavana azy koa io). Ny fanao mahazatra dia :
 - ny **$** manambara fa utilisateur tsotra no hanao _commande_ eo amin'io _shell_ io
-- ny **#** manambara fa ny super utilisateur (ny faratampon'n utilisateurs rehetra) no hanao commande eo amin'ny _shell_
+- ny **#** manambara fa ny super utilisateur (ny faratampon'ny utilisateurs rehetra) no hanao commande eo amin'ny _shell_
 
 Ao aoriana kely no hijerentsika amin'ny antsipirihiny izay resaka utilisateur izay fa eto dia tadidio fotsiny hoe misy karazany roa izany izy ireo, misy utilisateur tsotra misy super utilisateur.
 
@@ -67,7 +67,7 @@ Ny endiky ny commande dia efa hitantsika [tato](https://github.com/open-code-gee
 - afaka sady misy option no misy argument, ohatra hoe **ls -l /dev**
 - ny _espace_ dia TENA MISY DIKANY, io izany **commande _ espace _ [options(s)] _ espace _ [argument(s)]**, izay ilay commande ka raha **ls -al /dev** no tiana atao dia tsy mety io raha ataona **ls-al /dev** na **ls -a a / dev**
 
-Reefa tianao ho fantatra ny mombamomba ilay commande (ny fampiasana azy ny options sy ny argunments) dia afaka mampaisa ny commande **man** ianao na **commande --help**
+Reefa tianao ho fantatra ny mombamomba ilay commande (ny fampiasana azy ny options sy ny argunments) dia afaka mampiasa ny commande **man** ianao na **commande --help**
 
 **man nom_de_commande** (Ohatra izany hoe **man ls**)
 
