@@ -1,4 +1,4 @@
-#Ny ligne de commandes
+# Ny ligne de commandes
 
 Iverenantsika kely ary ny ligne de commandes na interpreteur de commandes amin'ny ankapobeny. Rehefa manao commandes ianao, ohatra hoe **pwd** dia mahazo valiny eo ambany eo. Ny tena marina dia nanome baiko ny interpreteur de commandes ianao hoe "aiza ho aiza eo amin'ny arborescence-ny systèmes de fichiers no misy ahy izao" na koe hoe "ao anaty repertoire inona aho izao".
 
@@ -6,7 +6,7 @@ _Sarotra ve ?_  Io re ilay antsoina hoe **_SHELL_** e !
 
 Ny fiasan'ireo **shell** ireo no hojerentsika.
 
-##Ahoana moa izany ?
+## Ahoana moa izany ?
 
 Rehefa mampiasa commandes iny ianao, eo amin'ny terminal izany dia toy izao ny endrikendriny :
 
@@ -14,7 +14,7 @@ Rehefa mampiasa commandes iny ianao, eo amin'ny terminal izany dia toy izao ny e
 
 Toy izao avokoa ny fomba fanoratra amin'ny ankapobeny ny commandes rehetra amin'ny terminal. Hazavaina tsirairay ireo
 
-##Ny shell aloha
+## Ny shell aloha
 
 Araky ny voalaza etsy ambony dia izy no manatanteraka ny baikonao. Maro isan-karazany anefa ny **shell** ary arakaraky ny distribution ampiasainao dia samy manana ny **shell** par défaut. Ireto kosa no fahitantsika matetika :
 - bourne shell (/bin/sh)
@@ -22,7 +22,7 @@ Araky ny voalaza etsy ambony dia izy no manatanteraka ny baikonao. Maro isan-kar
 
 Samy manana ny mahaizy azy anefa ireo shell rehetra misy (dash, ksh, zsh, tcsh, rbash, sns.) fa na izany aza ny **fototra** mitovy foana.
 
-###Ny "prompt"
+### Ny "prompt"
 
 Manana endrika isan-karazany izy io ary azonao configurer-na amin'izay itiavanao azy (mba tsy hampifangaro voraka ity _tuto_ ity dia jerentsika amin'ny manaraka izay fanovana ny endriky ny _prompt_ izay, miaraka amin'ny _variables d'environnement_ angamba).
 
@@ -57,7 +57,7 @@ Farany, ireto commandes ireto no ahalalanao hoe inona no shell ampiasainao (atao
 
 **echo $0** na **echo $SHELL**
 
-###Ny commande
+### Ny commande
 
 Ny endiky ny commande dia efa hitantsika [tato](https://github.com/open-code-geek-gasy/Linux/blob/master/commande-base.md) fa ireto misy fanazavana fanampiny :
 - ny commande dia manavaka **casse** izany hoe tsy mitovy ny **pwd** sy ny **Pwd** ary ny **PWD**. Rehefa minuscule dia minuscule, ny majuscule dia majuscule fa tsy azo afamadibadika
@@ -73,7 +73,7 @@ Reefa tianao ho fantatra ny mombamomba ilay commande (ny fampiasana azy ny optio
 
 **ls --help**
 
-##Efa mitady ho grand :smile:
+## Efa mitady ho grand :smile:
 
 Raha nahavita namaky hatreto ianao dia arahabaina fa kely sisa dia **grand** :punch: satria nahoana ? rehefa avy mi-taper _commande_ izany dia mba afaka mamaky izay soratany eo :
 - raha miteny izy hoe misy olana ny commande (_command not found_ na _commande introuvable_) dia mba efa mahatakatra izany hoe misy olana kely eo amin'ilay commande, na diso tsipelina ilay izy na lasa misy majuscule na ohatr'izany
