@@ -2,9 +2,8 @@
 
  *Rehefa voavakinao tsara ilay lesona premier pas dia mitohy ihany ianao...* :smiley:
 
-1- Hanombohantsika an'azy aloha dia sokafy ny teminal satria eo isika no hianatra 
-tsindrio ny "ctrl+alt+t" dia ahita zavatra maintimainty feno soratsoratra kely mitovy amin'ilay film fijerinao 
-ireny ianao.Tena ireny tokoa ve ny fampiasana ny terminal?
+1- Hanombohantsika azy aloha dia sokafy ny teminal satria eo isika no hianatra 
+tsindrio ny "ctrl+alt+t" na ihany koa tadiavinao amin'ny interfaces graphique ny terminal na konsole , rehefa izay dia ahita zavatra maintimainty feno soratsoratra kely mitovy amin'ilay amin'ny film ireny ianao.Tena ireny tokoa ve ny fampiasana ny terminal?
 ___
 Andao jerentsika miandalana izay : 
 ___
