@@ -10,4 +10,5 @@ Raha te hifanampy ianao dia aza misalasala miresaka amin'ny [Niry](https://githu
 ## Indreto ny lesona misesy ary hoan'izay liana mahakasika ny linux
 
 - [premier pas](https://github.com/open-code-geek-gasy/Linux/blob/master/premier-pas.md)
-- [commande de base](https://github.com/open-code-geek-gasy/Linux/blob/master/commande-base.md)
+- [commandes de base](https://github.com/open-code-geek-gasy/Linux/blob/master/commande-base.md)
+- [lignes de commande](https://github.com/open-code-geek-gasy/Linux/blob/master/ligne-commande.md)
