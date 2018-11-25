@@ -10,11 +10,11 @@ ___
 
 1- Raha tianao ho fantatra hoe aiza ao anatin'ilay pc ny misy anao dia tapeo eo amin'ilay terminal ity : 
 
-    **pwd**  : raha adika lavalava kokoa dia (print name of current working directory ) 
+    pwd  : raha adika lavalava kokoa dia (print name of current working directory ) 
 
 2- Ankoatra izay raha tianao fantarina ny mahakasika ny PC anao dia tsindrio ny 
 
-    *uname -a* na ihany koa *name --all* 
+    uname -a na ihany koa uname --all 
 Dia ho hitanao eo ny mombamomba ilay PC anao.
 
 ##Mbola liana ve ianao? Mbola te hanohy sa leo sahady?
