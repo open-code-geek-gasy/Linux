@@ -12,3 +12,4 @@ Raha te hifanampy ianao dia aza misalasala miresaka amin'ny [Niry](https://githu
 - [premier pas](https://github.com/open-code-geek-gasy/Linux/blob/master/premier-pas.md)
 - [commandes de base](https://github.com/open-code-geek-gasy/Linux/blob/master/commande-base.md)
 - [lignes de commande](https://github.com/open-code-geek-gasy/Linux/blob/master/ligne-commande.md)
+- [install apache server](https://github.com/open-code-geek-gasy/Linux/blob/master/installation-serveur.md)
