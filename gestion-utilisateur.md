@@ -1,6 +1,6 @@
 
 
-# Andao isika hanampy utilisateur iray anatin'ny pc anao :stuck_out_tongue_winking_eye:
+# Andao isika hanampy utilisateur iray anatin'ny pc anao
 
 Aleo zandrikely = lita mba ampidirintsika ao koa :smiley: tsy zandrikely le eritretin'ny gasy io a ! , *ndao ary!!!*
 
