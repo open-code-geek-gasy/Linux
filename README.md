@@ -1,11 +1,11 @@
 ## Open Code Geek Gasy 
 
 
-Fanoratana ireo fampianarana na tuto amin'ny fomba tsotra mora azo amin'ny teny gasy sy français na anglais koa.
+Fanoratana ireo fampianarana na tuto amin'ny fomba tsotra mora azo, amin'ny teny malagasy, frantsay ary anglisy.
 
-Raha misy fanitsiana na fanatsarana dia afaka mandefa pull request ianao.
+Raha misy fanitsiana na fanatsarana tianao hentina, afaka mandefa pull request ianao.
 
-Raha te hifanampy ianao dia aza misalasala miresaka amin'ny [Niry](https://github.com/NyAndria)  , na [Jul](https://github.com/julkwel) ihany koa, misokatra tanteraka amin'ny fiaraha-misalahy eto izahay. :raised_hands:
+Raha te hifanampy ianao dia aza misalasala miresaka amin'ny [Niry](https://github.com/NyAndria)  , na [Jul](https://github.com/julkwel) ihany koa, misokatra tanteraka amin'ny fiaraha-misalahy izahay. :raised_hands:
 
 ## Indreto ny lesona misesy ary hoan'izay liana mahakasika ny linux
 
