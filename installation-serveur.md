@@ -23,9 +23,9 @@ ___
 Then 
 *sudo apt update*
 
-Now , install the php and dependancy for main I need php7.1
+Now , install the php and dependancy for main I need php7.3
 
-*apt install apache2 php7.1 php7.1-cli php7.1-common php7.1-curl php7.1-gd php7.1-json php7.1-mbstring php7.1-mysql php7.1-xml*
+*apt install apache2 php7.3 php7.3-cli php7.3-common php7.3-curl php7.3-gd php7.3-json php7.3-mbstring php7.3-mysql php7.3-xml*
 ___
 Install Mysql-server
 
